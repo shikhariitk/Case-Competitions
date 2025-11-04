@@ -165,5 +165,4 @@ Data and insights sourced from:
 * CropIn, Rikolto, and Agmatix platforms
 
 ## DECK
-• [**Semi-Final Deck(PDF)**](./MALANG GLOBE IBCC 2025.pdf)
-
+• [**Semi-Final Deck(PDF)**](https://drive.google.com/file/d/1cXDpH6bdSoDjhsuZQTrrWAaOpaBEQb__/view?usp=sharing)
